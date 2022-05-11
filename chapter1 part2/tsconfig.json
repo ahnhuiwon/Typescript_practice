@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target": "ES5", // 컴파일시 자바스크립트의 버전
+        "module": "commonjs" // 자바스크립트 파일간 import 문법 구현 commonjs -> require, es2015 || esnext -> import
+    }
+}
